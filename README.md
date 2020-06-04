@@ -1,0 +1,2 @@
+# ansible-graylog
+Graylog Server
